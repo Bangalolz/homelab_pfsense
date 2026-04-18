@@ -74,4 +74,4 @@ ping 192.168.1.19
 - Test ping depuis lab-network vers Wazuh Manager (192.168.1.19) : succès ✅
 
 ## Prochaines étapes
-- Intégrer les logs pfSense dans Wazuh ✅ => 
+- Intégrer les logs pfSense dans Wazuh ✅ => https://github.com/Bangalolz/homelab-wazuh.git
