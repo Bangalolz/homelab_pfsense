@@ -74,6 +74,4 @@ ping 192.168.1.19
 - Test ping depuis lab-network vers Wazuh Manager (192.168.1.19) : succès ✅
 
 ## Prochaines étapes
-- Créer des règles firewall pour affiner le trafic autorisé
-- Intégrer les logs pfSense dans Wazuh
-- Tester des malware samples en environnement isolé
+- Intégrer les logs pfSense dans Wazuh ✅ => 
