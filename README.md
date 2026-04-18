@@ -46,6 +46,7 @@ ping 192.168.1.19
 
 ## Configuration
 ### Interfaces réseau
+
 | Interface | Mode VirtualBox | IP | Rôle |
 |-----------|----------------|-----|------|
 | WAN (em0) | Bridge | 192.168.1.34 | Accès internet / réseau domestique |
