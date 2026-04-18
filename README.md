@@ -1,5 +1,5 @@
 # homelab-pfsense
-Déploiement et configuration d'un firewall pfSense en environnement de lab personnel pour segmenter le réseau entre les agents Wazuh et le réseau domestique.
+Déploiement et configuration d'un firewall pfSense sur VirtualBox pour segmenter le réseau du homelab SOC. Intégration des logs dans Wazuh pour centraliser les alertes réseau et de sécurité.
 
 # Homelab SOC - Déploiement pfSense
 
