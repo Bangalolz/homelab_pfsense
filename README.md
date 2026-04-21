@@ -7,14 +7,8 @@ Déploiement et configuration d'un firewall pfSense sur VirtualBox pour segmente
 Déploiement d'un firewall open source pfSense sur VirtualBox pour segmenter le réseau du homelab SOC. L'objectif est d'isoler les VMs agents du réseau domestique tout en maintenant la communication avec le Wazuh Manager.
 
 ## Architecture réseau
-Internet / Box
-|
-pfSense (WAN 192.168.1.X / LAN 192.168.100.1)
-|                         |
-Bridge (192.168.1.x)      lab-network (192.168.100.x)
-|                         |
-Wazuh Manager              VMs agents W11
-192.168.1.19               192.168.100.x (DHCP)
+
+<img width="1526" height="1015" alt="image" src="https://github.com/user-attachments/assets/5289b5d3-717b-4b5d-a9dc-7633001bcb74" />
 
 ## Installation
 ### Prérequis
